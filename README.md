@@ -1,2 +1,2 @@
-# petty.github.io
+# shaepetty07.github.io
 Testing GitHub in Atom
